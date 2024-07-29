@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="Assets\Data Engineering.png">
+</p>
 
 ## Data Engineering RoadMap
 
